@@ -37,7 +37,7 @@ public class MyApplication extends Application {
     public static void main(String[] args) {
         LauncherImpl.launchApplication(MyApplication.class, MyPreloader.class, args);
 
-        //System.setProperty("javafx.preloader", "preloader.MyPreloader");
+        //System.setProperty("javafx.preloader", "preloader.MyPreloader");  //Another option to call the preloader
         //launch(args);
     }
 }
