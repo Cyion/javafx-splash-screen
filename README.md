@@ -14,7 +14,7 @@ JavaFX Splash Screen
 - Produktname oder -logo
 - Brand Design
 - Ladeindikator
-(- Anmeldeformular)
+- (Anmeldeformular)
 
 **Implementierung**
 - Jeder Implementierung eines Preloaders muss von der Preloader Klasse erben
