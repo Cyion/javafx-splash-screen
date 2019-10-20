@@ -3,7 +3,7 @@ JavaFX Splash Screen
 
 **Motivation**  
 - Feedback an den Benutzer, dass Anwendung noch lädt
-	- Wichtig für Anwendungen die viel I/O am Anfang haben
+	- Wichtig für Anwendungen mit I/O lastigen Starts
 	- Webanwendungen
 - Welcome experience
     - Erster Eindruck zählt
