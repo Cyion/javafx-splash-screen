@@ -8,6 +8,9 @@ import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 import preloader.MyPreloader;
 
+/**
+ * Application class.
+ */
 public class MyApplication extends Application {
 
     @Override

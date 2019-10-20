@@ -6,6 +6,7 @@ JavaFX Splash Screen
 	- Wichtig für Anwendungen die viel I/O am Anfang haben
 	- Webanwendungen
 - Welcome experience
+    - Erster Eindruck zählt
 	- Präsentation des Brand Designs
 - Kann benutzt werden um Anmeldedaten abzufragen
 
